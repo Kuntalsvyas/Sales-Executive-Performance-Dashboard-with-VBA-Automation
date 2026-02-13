@@ -40,4 +40,5 @@ The tool provides management with a clear view of who is hitting targets, who is
 # 🙌 Author
 Built by Kuntal Vyas
 If you found this useful, ⭐ the repo and share!
-Learning/Practice Project
+
+**Status** :- Learning/Practice Project
